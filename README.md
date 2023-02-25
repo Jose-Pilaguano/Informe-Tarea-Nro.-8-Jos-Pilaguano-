@@ -164,6 +164,8 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 4. Video
 
+https://youtu.be/hYIix0kM0WM 
+
 5.Conclusiones
 
 El uso de números complejos en circuitos es permitir la representación matemática y análisis de circuitos eléctricos que contienen componentes que exhiben tanto resistencia como reactancia, tales como inductores y capacitores.
